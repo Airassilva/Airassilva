@@ -11,18 +11,7 @@ A pós-graduação tem me proporcionado uma visão mais ampla sobre design patte
 
 ### 📊 Estatísticas 
 
-<p>
-<img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=airassilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  alt="Estatísticas do GitHub de Aira Silva"
-/>
-<img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=airassilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
-/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=airassilva&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airassilva&theme=tokyonight&layout=compact&langs_count=8"/>
+</div>
