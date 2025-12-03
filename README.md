@@ -12,6 +12,7 @@ A pós-graduação tem me proporcionado uma visão mais ampla sobre design patte
 ### 📊 Estatísticas 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=airassilva&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airassilva&theme=tokyonight&layout=compact&langs_count=8"/>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=airassilva&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
